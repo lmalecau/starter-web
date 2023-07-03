@@ -9,3 +9,4 @@ Sample website with plenty of files for demos
 ## Text for working directory
 
 new text originally made in first_branch
+new text for 2nd branch

@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-## Text for working directory
+## Line change for conflict
 
 new text originally made in first_branch
 new text for 2nd branch

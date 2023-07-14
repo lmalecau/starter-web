@@ -12,4 +12,4 @@ Sample website with plenty of files for demos
 new text originally made in first_branch
 new text for 2nd branch
 
-trying to create a conflict
+attempting to create a conflict for rebase
